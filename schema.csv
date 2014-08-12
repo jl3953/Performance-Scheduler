@@ -1,0 +1,11 @@
+COLUMN,DATATYPE
+contactName,s
+date,d
+time,t
+day,s
+location,s
+transportation,b
+lions,i
+needed,i
+participants,i
+enough,b
